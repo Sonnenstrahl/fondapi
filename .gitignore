@@ -1,0 +1,9 @@
+# Logs
+logs
+*.log
+
+# Project
+.idea/
+*.iml
+.DS_Store
+node_modules/
